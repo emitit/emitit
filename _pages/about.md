@@ -15,6 +15,6 @@ vibrant brand that perfectly captures your product/service,
 consider it done!
 Have a look at my work and what I offer and if you believe I'm the right fit, contact me!
 
-I write about these topics on my [blog]({{site.baseurl}}/blog/) and explore them in my [projects]({{site.baseurl}}/projects/).
+I explore theese topics in my [projects]({{site.baseurl}}/projects/). Check them out!
 
 Maybe you'd like to [collaborate with me](mailto:temi.angjusheva@gmail.com) on your next project.
