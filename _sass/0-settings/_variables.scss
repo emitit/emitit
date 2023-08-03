@@ -20,11 +20,20 @@ $base-font-style: normal;
 $base-font-variant: normal;
 $base-font-weight: normal;
 $base-font-family: 'Inter', Helvetica Neue, Helvetica, Arial, sans-serif;
-$base-line-height: 1.6;
+$base-line-height: 1.6; 
 
 // Headings
-$heading-font-weight: 700;
-$heading-font-family: 'Syne', sans-serif;
+@font-face {
+    $heading-font-family: 'bon_foyageregular';
+    src: url('bon_foyage_ttf-webfont.woff2') format('woff2'),
+         url('bon_foyage_ttf-webfont.woff') format('woff');
+    $heading-font-weight: normal;
+    $heading-font-style: normal;
+
+}
+
+$heading-font-weight: normal;
+$heading-font-family: 'Bon Foyage', serif; 
 
 $font-size-h1: 36px;
 $font-size-h2: 28px;

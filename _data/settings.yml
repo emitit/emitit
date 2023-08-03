@@ -41,8 +41,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero_title: jhgjhghjg <span><i>Temi Design</i></span> # Add the "span" tag to highlight text.
-  hero_description: by Temjana Angjusheva
+  hero_title: Hey, I'm Temi. I Design <span><i>Digital Products & Brands</i></span> # Add the "span" tag to highlight text.
+  hero_description: A UX & Visual Brand Designer focused on designing simple, scalable mobile and web products, as well as creating beautiful, bold designs that help brands grow.
   hero_image: "/images/main-image.webp" # Title background image
   hero_button_contact: Get In Touch
   hero_button_about: About Me
