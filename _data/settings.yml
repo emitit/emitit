@@ -55,7 +55,7 @@ section_projects_title: 👨🏻‍💻 Selected Works
 
 #-------------------------------
 # Testimonials Section
-section_testimonial_title: 🙂 What Others Say
+section_testimonial_title: 🗣️ What Others Say
 
 testimonial_items:
   - name: "Hristijan Petrovski"
@@ -67,12 +67,12 @@ testimonial_items:
   - name: "Anastasija Mladenovska"
     image: "/images/testimonials/client-2.jpg"
     designation: "Political Science PhD @Miami University"
-    link: "https://www.linkedin.com/in/anastasija-mladenovska-51660924a"
-    content : "I recently worked with Temjana on a brand design project and I was extremely impressed with the results. Temjana was able to deliver an excellent design that met all of my expectations and was completed on time. I would highly recommend Temjana for any brand design project!"
+    link: "https://www.linkedin.com/in/anastasija-mladenovska-51660924a/"
+    content : "I recently worked with Temjana on a brand design project and I was extremely impressed with the results. She was able to deliver an excellent design that met all of my expectations and was completed on time. I would highly recommend her for any brand design project!"
 
 #-------------------------------
 # Blog Section
-section_blog_title: 📚 Read Latest Posts
+#section_blog_title: 📚 Read Latest Posts
 #-------------------------------
 
 
@@ -82,12 +82,12 @@ section_tags_title: ✌️ Explore Topics
 
 #-------------------------------
 # Newsletter Settings
-mailchimp_settings:
-  enable: true
-  mailchimp_title: Join my email list
-  mailchimp_identifier:  # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-  mailchimp_input_text: Enter your email address
-  mailchimp_background_image: /images/subscribe-bg.jpg
+#mailchimp_settings:
+#  enable: true
+#  mailchimp_title: Join my email list
+#  mailchimp_identifier:  # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+#  mailchimp_input_text: Enter your email address
+#  mailchimp_background_image: /images/subscribe-bg.jpg
 
 #-------------------------------
 # Footer Settings

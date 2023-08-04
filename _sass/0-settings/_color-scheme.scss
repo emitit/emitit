@@ -1,9 +1,9 @@
 /* Color Scheme */
 
 :root {
-  --primary-color: #f96a6c;
-  --secondary-color: #fa5657;
-  --accent-color: #fbd599;
+  --primary-color: #F2622C;
+  --secondary-color: #166B59;
+  --accent-color: #D1E1B9;
   --white: #fff;
   --light-gray: #e1e4e9;
   --light-blue: #fbf6f6;
@@ -15,7 +15,7 @@
 
   --image-gradient: linear-gradient(180deg, rgba(var(--rgb-image-color), 0.8), rgba(var(--rgb-image-color), 1));
 
-  --text-gradient: linear-gradient(90deg, rgba(182, 107, 229, 1) -50%, rgba(248, 93, 112, 1) 51%, rgba(252, 140, 92, 1) 103%); // To change the color of the gradient, add an RGB color code. For example - "182, 107, 229", "248, 93, 112" and "252, 140, 92" (You can generate any color here - https://htmlcolorcodes.com).
+  --text-gradient: linear-gradient(90deg, rgba(242, 98, 44, 1) -50%, rgba(209, 225, 185, 1) 103%), rgba(22, 107, 89, 1) 51%; // To change the color of the gradient, add an RGB color code. For example - "182, 107, 229", "248, 93, 112" and "252, 140, 92" (You can generate any color here - https://htmlcolorcodes.com).
 
   --background-color: var(--white);
   --background-alt-color: var(--light-blue);
