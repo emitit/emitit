@@ -25,15 +25,14 @@ $base-line-height: 1.6;
 // Headings
 @font-face {
     $heading-font-family: 'bon_foyageregular';
-    src: url('/fonts/bon-foyage.otf') format('otf'),
-         url('/fonts/bon_foyage.ttf') format('ttf');
+    src: url('/fonts/DMSerifDisplay-Regular.ttf') format('ttf');
     $heading-font-weight: normal;
     $heading-font-style: normal;
 
 }
 
 $heading-font-weight: normal;
-$heading-font-family: 'Bon Foyage',DM Serif Display, serif; 
+$heading-font-family: 'DM Serif Display', serif; 
 
 $font-size-h1: 36px;
 $font-size-h2: 28px;
