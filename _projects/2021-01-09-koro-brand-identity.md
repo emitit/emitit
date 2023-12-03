@@ -1,5 +1,5 @@
 ---
-date: 2021-01-09 06:20:35 +0300
+date: 2021-01-08 06:20:35 +0300
 title: KORO Branding
 subtitle: Logo | Package | Brand Guidelines
 image: '/images/brand-image.webp'

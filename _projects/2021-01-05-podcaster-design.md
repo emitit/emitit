@@ -1,5 +1,5 @@
 ---
-date: 2021-01-05 05:20:35 +0300
+date: 2021-01-11 05:20:35 +0300
 title: Podcaster App
 subtitle: UI/UX Design | Logo Design
 image: '/images/podcaster-mockup.webp'

@@ -1,5 +1,5 @@
 ---
-date: 2021-01-10 07:40:35 +0300
+date: 2021-01-06 07:40:35 +0300
 title: Personal Branding
 subtitle: Logo | Brand Design
 image: '/images/main-image.webp'

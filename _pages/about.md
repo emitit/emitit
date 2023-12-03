@@ -1,19 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 image: '/images/temjana-picture.webp'
 ---
 
 **Hey! I'm Temi.**
 
-With a ton of research, thought, care and passion, I am dedicated to **improving experiences** and making them visually pleasing too,
-both for mobile and web by creating scalable designs to fulfill the users' needs.
+A passionate creative specializing in __Branding__, __Packaging__, __UI/UX__, and __Motion Design__. 
 
-I also do **brand design**, so whether you want me on your team or you need a fresh,
-vibrant brand that perfectly captures your product/service,
-consider it done!
-Have a look at my work and what I offer and if you believe I'm the right fit, contact me!
+Guided by creative ecstasy, I constantly learn, elevate and improve in every field, thriving on transforming ideas into bold, playful visual identities that tell your brand's story.
+
+My approach is straightforward – meticulous attention to detail guides my decisions. I blend research, strategy, and artistry seamlessly to craft compelling visual experiences that captivate your audience.
+
+My greatest passion lies in Branding and Packaging Design, where I experiment with styles to elevate brands through impactful visuals. Beyond digital design, I dabble in fashion, sewing, and photography in my free time.
 
 I explore theese topics in my [projects]({{site.baseurl}}/projects/). Check them out!
 
