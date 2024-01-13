@@ -30,7 +30,7 @@ menu_settings:
 social:
 - {icon: "fa-brands fa-instagram", link: "https://www.instagram.com/tapas_visuals/"}
 - {icon: "fa-brands fa-dribbble", link: "https://dribbble.com/temiang"}
-- {icon: "fa-brands fa-linkedin", link: "https://linkedin.com/temjana-angjusheva"}
+- {icon: "fa-brands fa-linkedin", link: "https://www.linkedin.com/in/temjana-angjusheva/"}
 - {icon: "fa-brands fa-behance", link: "https://behance.com/temjanaangjush"}
 
 # Example of adding a new link to the header and footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
