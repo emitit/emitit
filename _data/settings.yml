@@ -30,7 +30,7 @@ menu_settings:
 social:
 - {icon: "fa-brands fa-instagram", link: "https://www.instagram.com/tapas_visuals/"}
 - {icon: "fa-brands fa-dribbble", link: "https://dribbble.com/temiang"}
-- {icon: "fa-brands fa-linkedin", link: "https://linkedin.com/temjanaangjusheva"}
+- {icon: "fa-brands fa-linkedin", link: "https://linkedin.com/temjana-angjusheva"}
 - {icon: "fa-brands fa-behance", link: "https://behance.com/temjanaangjush"}
 
 # Example of adding a new link to the header and footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
@@ -55,10 +55,10 @@ section_projects_title: 👨🏻‍💻 Selected Works
 
 #-------------------------------
 # Testimonials Section
-section_testimonial_title: 🗣️ What Others Say
+section_testimonial_title: 🧚🏻‍♀️ Services
 
 testimonial_items:
-  - name: "Hristijan Petrovski"
+  - name: "Visual Brand Identity"
     image: "/images/testimonials/client-1.jpg"
     designation: "CEO @ ByteFengs"
     link: "https://www.linkedin.com/in/hristijan-p-295182147/"

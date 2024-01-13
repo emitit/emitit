@@ -13,12 +13,18 @@ __MY ROLE__
 
 Since the company has so many brands under it, all of them have a different target audience that requires a different approach. As the designer on Natura Therapy's marketing team, my responsibility is to make unique, eye-catching social media designs that capture the attention of each audience, as well as captivating packages for their products. 
 
-![Social Media Posts for the products Collagen Peptides and Max Brain](/images/adastra-sm-max-collagen.webp){: width="1200" height="580"}
+![Social Media Posts for the products Collagen Peptides and Max Brain](/images/adastra-sm-max-collagen-whey.webp){: width="1200" height="580"}
 
 ![Social Media Posts for Gym Supplements](/images/adastra-sm-gym-sups.webp){: width="1200" height="580"}
-
-![Social Media Posts for Black Friday](/images/natura-therapy-sm-black-friday.webp){: width="1200" height="580"}
 
 ![Social Media Posts for Natura Therapy Products - Prostate](/images/natura-therapy-sm-prostate-aloe.webp){: width="1200" height="580"}
 
 ![Social Media Posts for Natura Therapy Products - Liquid Supplements](/images/natura-therapy-sm-liquid-sups.webp){: width="1200" height="580"}
+
+![Social Media Posts and Web Banner for Big Giveaway](/images/natura-therapy-social media-banner-black-friday.webp){: width="1200"}
+
+![Social Media Posts for Black Friday](/images/natura-therapy-social media-banner-giveaway.webp){: width="1200"}
+
+__PRESENTATION DESIGN__
+
+<iframe style="width:900px;height:500px" src="https://online.fliphtml5.com/wtexh/bdot/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
