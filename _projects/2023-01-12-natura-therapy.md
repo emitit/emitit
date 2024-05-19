@@ -25,6 +25,15 @@ Since the company has so many brands under it, all of them have a different targ
 
 ![Social Media Posts for Black Friday](/images/natura-therapy-social media-banner-giveaway.webp){: width="1200"}
 
+__PACKAGING/LABEL DESIGN__
+This role also involved creating label designs for upcoming products. My role was to come up with a suitable design for each product - ranging from supplements to body creams, read on to find out what each one is all about!
+
+    R&R MELEM
+    Meaning Renew & Repair is a healing balm designed to treat conditions like eczema, psoriasis or dermatitis. The idea behind the label and box design was to create something that will resemble a on oil-based natural product, given a yellow primary color because of the balm's light yellow color. As this is a product that has recently rolled out, I also created promotional materials to showcase the benefits of the procut, as well as all the natural ingredients it was made of.  
+
+
 __PRESENTATION DESIGN__
 
 <iframe style="width:900px;height:500px" src="https://online.fliphtml5.com/wtexh/bdot/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+<iframe style="width:900px;height:500px" src="https://online.fliphtml5.com/wtexh/zctu/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>

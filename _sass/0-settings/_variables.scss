@@ -24,8 +24,8 @@ $base-line-height: 1.6;
 
 // Headings
 @font-face {
-    $heading-font-family: 'bon_foyageregular';
-    src: url('/fonts/bon-foyage.otf') format('otf');
+    $heading-font-family: 'CustomFont'; Bon Foyage
+    src: url('/fonts/bon-foyage.ttf') format('ttf');
     $heading-font-weight: normal;
     $heading-font-style: normal;
 
