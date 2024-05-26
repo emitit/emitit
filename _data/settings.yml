@@ -31,7 +31,7 @@ social:
 - {icon: "fa-brands fa-instagram", link: "https://www.instagram.com/tapas_visuals/"}
 - {icon: "fa-brands fa-dribbble", link: "https://dribbble.com/temiang"}
 - {icon: "fa-brands fa-linkedin", link: "https://www.linkedin.com/in/temjana-angjusheva/"}
-- {icon: "fa-brands fa-behance", link: "https://behance.com/temjanaangjush"}
+- {icon: "fa-brands fa-behance", link: "https://behance.com/temjanaangjush"} 
 
 # Example of adding a new link to the header and footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -50,7 +50,7 @@ hero:
 
 #-------------------------------
 # Projects Settings
-section_projects_title: 👨🏻‍💻 Selected Works
+section_projects_title: 👨🏻‍💻 Portfolio
 
 
 #-------------------------------
@@ -58,18 +58,24 @@ section_projects_title: 👨🏻‍💻 Selected Works
 section_testimonial_title: 🧚🏻‍♀️ Services
 
 testimonial_items:
-  - name: "Visual Brand Identity"
-    image: "/images/testimonials/client-1.jpg"
-    designation: "CEO @ ByteFengs"
-    link: "https://www.linkedin.com/in/hristijan-p-295182147/"
-    content : "I had the pleasure of working with Temjana on a recent project. She was an absolute pleasure to work with. Her skills in graphics design and UI/UX were invaluable to the success of the project. She was able to take our ideas and bring them to life in a way that exceeded our expectations. Her attention to detail and dedication to the project was impressive. I would highly recommend Temjana for any project that requires her skills."
+  - name: "Branding (and Packaging Design)"
+    image: "/images/testimonials/branding_img.png"
+    designation: "You deserve a banger of a brand!"
+    #--link: "https://www.linkedin.com/in/hristijan-p-295182147/"
+    content : "Whether you've got a brilliant idea for you new brand, or you want a refreshment to your existing one - you've found your gal. Through research and strategizing, I'll help you craft your brand's unique visual identity that perfectly captures your essence and captivates your customers."
 
-  - name: "Anastasija Mladenovska"
-    image: "/images/testimonials/client-2.jpg"
-    designation: "Political Science PhD @Miami University"
-    link: "https://www.linkedin.com/in/anastasija-mladenovska-51660924a/"
-    content : "I recently worked with Temjana on a brand design project and I was extremely impressed with the results. She was able to deliver an excellent design that met all of my expectations and was completed on time. I would highly recommend her for any brand design project!"
+  - name: "Marketing Design"
+    image: "/images/testimonials/marketing_img.png"
+    designation: "What better than a snatched online presence?"
+   #-- link: "https://www.linkedin.com/in/anastasija-mladenovska-51660924a/"
+    content : "Need engaging graphics that make your brand stand out? You got it. I create everything from social media posts, website graphics, email design to printed materials like posters, flyers and brochures. I develop designs that boost your brand’s visibility and communication, ensuring your materials are both eye-catching and effective."
 
+  - name: "UI/UX Design"
+    image: "/images/testimonials/ux_img.png"
+    designation: "Attract. Convert. Grow."
+    #--link: "https://www.linkedin.com/in/anastasija-mladenovska-51660924a/"
+    content : "I design data-driven websites and mobile applications (Android & iOS) that look amazing, convert and are super easy to use. Every design is backed up by lots of hours of research and usability testing to create user-friendly, intuitive experiences."
+#-------------------------------
 #-------------------------------
 # Blog Section
 #section_blog_title: 📚 Read Latest Posts

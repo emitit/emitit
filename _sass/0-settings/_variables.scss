@@ -18,21 +18,27 @@ $global-transition: all .25s;
 $base-font-size: 19px;
 $base-font-style: normal;
 $base-font-variant: normal;
-$base-font-weight: normal;
+$base-font-weight: 100, 200, 300, 400, 500, 600, 700, 800, 900;
 $base-font-family: 'Inter', Helvetica Neue, Helvetica, Arial, sans-serif;
 $base-line-height: 1.6; 
 
 // Headings
 @font-face {
-    $heading-font-family: 'Bon Foyage';
-    src: url('/fonts/bon-foyage.otf') format('otf');
-    $heading-font-weight: normal;
-    $heading-font-style: normal;
-
+    .dm-serif-display-regular {
+        font-family: "DM Serif Display", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .dm-serif-display-regular-italic {
+        font-family: "DM Serif Display", serif;
+        font-weight: 400;
+        font-style: italic;
+      }      
 }
 
 $heading-font-weight: normal;
-$heading-font-family: 'Bon Foyage'; 
+$heading-font-family: "DM Serif Display", serif;
 
 $font-size-h1: 36px;
 $font-size-h2: 28px;

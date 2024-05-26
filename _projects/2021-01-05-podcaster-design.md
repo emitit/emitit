@@ -73,8 +73,6 @@ You can check out the clickable prototype <a href="https://www.figma.com/proto/k
 
 At this point, the only thing left was creating a style guide, designing the logo and the components. Once these three were done, I easily and efficiently put the entire design together.
 
-![Colors and typefaces used in the the app](/images/style-guide.webp){: width="1200" height="900"}
-
 ![A breakdown of the podcaster logo](/images/logo.webp){: width="1200" height="900"}
 
 

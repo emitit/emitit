@@ -1,5 +1,6 @@
 ---
-date: 2023-01-12 07:30:35 +0300
+date: 2023-11-01 07:30:35 +0300 - Present
+role: Social Media Designs, Banners, Flyers, Packaging/Labels, Image Retouching
 title: Natura Therapy 
 subtitle: Social Media, Packaging, Banner Design
 image: '/images/social-media-designs-banner.webp'
@@ -11,25 +12,35 @@ This is an ongoing project that consists of all of my social media, branding and
 
 __MY ROLE__
 
-Since the company has so many brands under it, all of them have a different target audience that requires a different approach. As the designer on Natura Therapy's marketing team, my responsibility is to make unique, eye-catching social media designs that capture the attention of each audience, as well as captivating packages for their products. 
+I joined Natura Therapy as a Graphic Designer to work on improving the overall visual identity. As the brand is growing, I have also taken upon creating marketing materials for other countries where the company sells its products. Since the company has so many brands under it, all of them have a different target audience that requires a different approach.
 
-![Social Media Posts for the products Collagen Peptides and Max Brain](/images/adastra-sm-max-collagen-whey.webp){: width="1200" height="580"}
+I create materials for three individual brands under Natura Therapy created for different purposes (skincare, health and bodybuilding).
 
-![Social Media Posts for Gym Supplements](/images/adastra-sm-gym-sups.webp){: width="1200" height="580"}
-
-![Social Media Posts for Natura Therapy Products - Prostate](/images/natura-therapy-sm-prostate-aloe.webp){: width="1200" height="580"}
-
-![Social Media Posts for Natura Therapy Products - Liquid Supplements](/images/natura-therapy-sm-liquid-sups.webp){: width="1200" height="580"}
-
-![Social Media Posts and Web Banner for Big Giveaway](/images/natura-therapy-social media-banner-black-friday.webp){: width="1200"}
-
-![Social Media Posts for Black Friday](/images/natura-therapy-social media-banner-giveaway.webp){: width="1200"}
+As of May, we also have one more designer on the team who I'm actively training.
 
 __PACKAGING/LABEL DESIGN__
-This role also involved creating label designs for upcoming products. My role was to come up with a suitable design for each product - ranging from supplements to body creams, read on to find out what each one is all about!
 
-    R&R MELEM
-    Meaning Renew & Repair is a healing balm designed to treat conditions like eczema, psoriasis or dermatitis. The idea behind the label and box design was to create something that will resemble a on oil-based natural product, given a yellow primary color because of the balm's light yellow color. As this is a product that has recently rolled out, I also created promotional materials to showcase the benefits of the procut, as well as all the natural ingredients it was made of.  
+![Packaging Label for Femme 7 in a jar, realistic mockup](/images/femme_label_mockup.webp){: width="1200"}
+
+![Packaging Label for Femme 7 in a jar, revealing the entire label](/images/femme_label_open.webp){: width="1200"}
+
+![Packaging Label for Diet Shake with three different flavors, strawberry, vanilla and chocolate in that order with neapolitan three-flavor ice cream in the background](/images/diet_shake_labels_flavors.webp){: width="1200"}
+
+![Packaging Label for R&R Melem on a mockup with all the ingredients around it](/images/rnr_melem_label_mockup.webp){: width="1200"}
+
+![Packaging Labels for the two gels, thermo and cryo gel, on a mockup and clear background](/images/thermo_cryo_packaging_mockup.webp){: width="1200"}
+
+![Social media design introduction](/images/social_media_design_intro.webp){: width="1200"}
+
+![Social media designs for Natura Therapy natural products](/images/natura_therapy_social_media.webp){: width="1200"}
+
+![Social media designs for AdAstra bodybuilding products](/images/adastra_social_media.webp){: width="1200"}
+
+![Two-side horizontal flyer design](/images/flyer_design_showcase.webp){: width="1200"}
+
+![Website banners showcase](/images/website_banner_designs.webp){: width="1200"}
+
+![Product photos with their ingredients, made with photomanipulation](/images/website_product_photos.webp){: width="1200"}
 
 
 __PRESENTATION DESIGN__
