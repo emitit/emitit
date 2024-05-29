@@ -1,9 +1,9 @@
----
+<!---
 date: 2023-11-01 07:30:35 +0300 - Present
-role: Social Media Designs, Banners, Flyers, Packaging/Labels, Image Retouching
-title: Natura Therapy 
-subtitle: Social Media | Packaging | Banner Design
-image: '/images/social-media-designs-banner.webp'
+role:  UI/UX Designer, Competitor Research, Design Guide
+title: Vacay Hooray - Website Design 
+subtitle: UI/UX Design
+image: '/images/vacay_hoorday_cover_image.webp'
 ---
 
 __ABOUT THE PROJECT__
@@ -41,8 +41,6 @@ __PACKAGING/LABEL DESIGN__
 ![Website banners showcase](/images/website_banner_designs.webp){: width="1200"}
 
 ![Product photos with their ingredients, made with photomanipulation](/images/website_product_photos.webp){: width="1200"}
-
-![Photo manipulation of a jar to create a mockup](/images/femme_before_after_edit.webp){: width="1200"}
 
 
 __PRESENTATION DESIGN__
