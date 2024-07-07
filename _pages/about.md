@@ -17,4 +17,4 @@ My greatest passion lies in Branding and Packaging Design, where I experiment wi
 
 I explore theese topics in my [projects]({{site.baseurl}}/projects/). Check them out!
 
-Maybe you'd like to [collaborate with me](mailto:temi.angjusheva@gmail.com) on your next project.
+Maybe you'd like to [collaborate with me](mailto:hello@temi.design) on your next project.
