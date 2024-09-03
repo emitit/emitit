@@ -1,4 +1,4 @@
-
+---
 date: 2023-11-01 07:30:35 +0300 - Present
 role:  UI/UX Designer, Competitor Research, Design Guide
 title: Vacay Hooray - Website Design 
