@@ -1,4 +1,4 @@
-<!---
+
 date: 2023-11-01 07:30:35 +0300 - Present
 role:  UI/UX Designer, Competitor Research, Design Guide
 title: Vacay Hooray - Website Design 
@@ -8,43 +8,24 @@ image: '/images/vacay_hoorday_cover_image.webp'
 
 __ABOUT THE PROJECT__
 
-This is an ongoing project that consists of all of my social media, branding and packaging work at Natura Therapy. __NATURA THERAPY__ is a leading company on the Balkan market that develops, manufactures and sells natural food supplements designed to improve and maintain human health. They have developed multiple brands, each focusing on a different aspect of a human's health. 
+I was presented with a challenge by a client to design two separate booking engines with this goal specifically aiming to offer lower prices for hotels around to world and make accomodation booking easier. 
+
+
+__WHY TWO DIFFERENT WEBSITES?__
+
+Travelling covers an enormous group of people, so the client wanted to pursue two completely different options that would allow a different group of users to optimize their booking experience. 
+
+The goal for Vacay Hooray was a modern, fun approach that would stand out of in the ocean of booking engines that already exist. This business distinguishes itself by negotiating exclusive, unpublished hotel rates daily, and the challenge was to design a booking experience that effectively communicates this value while ensuring a seamless search and reservation process.
+
+I created a separate case study for the second project, take a look at it here!
 
 __MY ROLE__
 
-I joined Natura Therapy as a Graphic Designer to work on improving the overall visual identity. As the brand is growing, I have also taken upon creating marketing materials for other countries where the company sells its products. Since the company has so many brands under it, all of them have a different target audience that requires a different approach.
+As the UX/UI Designer for this project, my job was to turn the client's idea into a booking platform that’s both user-friendly and visually appealing. From start to finish, I was deeply involved in the design process, including:
 
-I create materials for three individual brands under Natura Therapy created for different purposes (skincare, health and bodybuilding).
-
-As of May, we also have one more designer on the team who I'm actively training.
-
-__PACKAGING/LABEL DESIGN__
-
-![Packaging Label for Femme 7 in a jar, realistic mockup](/images/femme_label_mockup.webp){: width="1200"}
-
-![Packaging Label for Femme 7 in a jar, revealing the entire label](/images/femme_label_open.webp){: width="1200"}
-
-![Packaging Label for Diet Shake with three different flavors, strawberry, vanilla and chocolate in that order with neapolitan three-flavor ice cream in the background](/images/diet_shake_labels_flavors.webp){: width="1200"}
-
-![Packaging Label for R&R Melem on a mockup with all the ingredients around it](/images/rnr_melem_label_mockup.webp){: width="1200"}
-
-![Packaging Labels for the two gels, thermo and cryo gel, on a mockup and clear background](/images/thermo_cryo_packaging_mockup.webp){: width="1200"}
-
-![Social media design introduction](/images/social_media_design_intro.webp){: width="1200"}
-
-![Social media designs for Natura Therapy natural products](/images/natura_therapy_social_media.webp){: width="1200"}
-
-![Social media designs for AdAstra bodybuilding products](/images/adastra_social_media.webp){: width="1200"}
-
-![Two-side horizontal flyer design](/images/flyer_design_showcase.webp){: width="1200"}
-
-![Website banners showcase](/images/website_banner_designs.webp){: width="1200"}
-
-![Product photos with their ingredients, made with photomanipulation](/images/website_product_photos.webp){: width="1200"}
-
-
-__PRESENTATION DESIGN__
-
-<iframe style="width:900px;height:500px" src="https://online.fliphtml5.com/wtexh/bdot/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
-
-<iframe style="width:900px;height:500px" src="https://online.fliphtml5.com/wtexh/zctu/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+<li> Conducting competitive research to get a clear picture of the widely-used booking engines.</li>
+<li> Discovering user pain points throug reviews and articles and identifying areas for improvement in existing platforms.</li>
+<li> Creating high-fidelity wireframes that addressed both what users need and what the client envisioned.</li>
+<li> Creating a design system/guide consisting of interactive elements, colors and typography to make the design process smoother and simplify handoff.</li>
+<li> Iterating on designs based on feedback as well as time & budget constraints.</li>
+<li> Making sure the design could handle new features (ex. reviews) </li>
