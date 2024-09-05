@@ -1,5 +1,7 @@
 ---
 date: 2021-01-08 06:20:35 +0300
+role:  Graphic Design, Visual Brand Identity, Logo Design, Research
+tools: Adobe Photoshop, Adobe Illustrator
 title: KORO Branding
 subtitle: Logo | Package | Brand Guidelines
 image: '/images/brand-image.webp'

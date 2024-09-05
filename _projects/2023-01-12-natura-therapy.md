@@ -1,6 +1,7 @@
 ---
 date: 2023-11-01 07:30:35 +0300 - Present
 role: Social Media Designs, Banners, Flyers, Packaging/Labels, Image Retouching
+tools: Adobe Illustrator, Adobe Photoshop, Adobe InDesign, PowerPoint
 title: Natura Therapy 
 subtitle: Social Media | Packaging | Banner Design
 image: '/images/social-media-designs-banner.webp'
@@ -10,7 +11,7 @@ __ABOUT THE PROJECT__
 
 This is an ongoing project that consists of all of my social media, branding and packaging work at Natura Therapy. __NATURA THERAPY__ is a leading company on the Balkan market that develops, manufactures and sells natural food supplements designed to improve and maintain human health. They have developed multiple brands, each focusing on a different aspect of a human's health. 
 
-__MY ROLE__
+__RESPONSIBILITIES__
 
 I joined Natura Therapy as a Graphic Designer to work on improving the overall visual identity. As the brand is growing, I have also taken upon creating marketing materials for other countries where the company sells its products. Since the company has so many brands under it, all of them have a different target audience that requires a different approach.
 

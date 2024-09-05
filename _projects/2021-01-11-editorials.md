@@ -1,5 +1,7 @@
 ---
 date: 2021-01-05 07:30:35 +0300
+role:  Graphic Design, Visual Brand Identity, Logo Design, Research
+tools: Adobe InDesign, Adobe Photoshop
 title: Brochures & Magazines
 subtitle: Editorial Design
 image: '/images/Magazine-Mockup.webp'

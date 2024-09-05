@@ -1,8 +1,11 @@
 ---
 date: 2021-01-10 05:20:35 +0300
+role:  Graphic Design
+tools: Adobe Photoshop, Adobe Illustrator
 title: Posters
 subtitle: Poster Design
 image: '/images/exhibition-poster-mockup.webp'
+
 ---
 This is a collection of posts I've designed throughout the years, starting from my Graphic Design academy up until now. My idea here is to capture the progress I've made and the development of my personal design style.
 

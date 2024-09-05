@@ -1,5 +1,7 @@
 ---
 date: 2021-01-06 07:40:35 +0300
+role:  Graphic Design, Visual Brand Identity, Logo Design, Research
+tools: Adobe Photoshop, Adobe Illustrator
 title: Personal Branding
 subtitle: Logo | Brand Design
 image: '/images/main-image.webp'
