@@ -36,3 +36,4 @@ As the UX/UI Designer for this project, my job was to turn the client's idea int
 
 ![An image of design styles intended to be used across the website design](/images/style_guide_vacay_hooray.png){: width="1200"}
 
+![An image of mobile screens consisting of the website](/images/mobile_screens_vacay_hooray.webp){: width="1200"}
