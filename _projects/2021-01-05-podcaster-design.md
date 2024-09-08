@@ -9,7 +9,7 @@ For my __4-month UX Design Internship__ I was given the task to design the first
 
 As the __only UX designer__, I was responsible for conducting __user research__, creating an __interaction strategy__ that helped develop the navigation and flow, __designing wireframes__ and __interactive prototypes__ as well as __organizing content__ according to the needs and goals of the users.
 
-To develop this project, I worked on a team along with two developers.
+To develop this project, I worked on a team with two developers.
 
 You can check out the clickable prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
 
