@@ -4,7 +4,7 @@ role:  UI/UX Designer, Competitor Research, Design Guide
 tools: Figma, FigJam
 title: Vacay Hooray - Website Design 
 subtitle: UI/UX Design
-image: '/images/vacay_hooray_cover.webp'
+image: '/images/vacay_hooray/vacay_hooray_cover.webp'
 ---
 
 __ABOUT THE PROJECT__
@@ -32,9 +32,10 @@ As the UX/UI Designer for this project, my job was to turn the client's idea int
 <li> Iterating on designs based on feedback as well as time & budget constraints.</li>
 <li> Making sure the design could handle new features (ex. reviews) </li>
 
+<br>
 
-![An image of various design elements designed to use across the platform](/images/design_system_vacay_hooray.webp){: width="1200"}
+![An image of various design elements designed to use across the platform](/images/vacay_hooray/design_system_vacay_hooray.webp){: width="1200"}
 
-![An image of design styles intended to be used across the website design](/images/style_guide_vacay_hooray.webp){: width="1200"}
+![An image of design styles intended to be used across the website design](/images/vacay_hooray/style_guide_vacay_hooray.webp){: width="1200"}
 
 ![An image of mobile screens consisting of the website](/images/mobile_screens_vacay_hooray 2.webp){: width="1200"}
