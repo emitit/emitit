@@ -32,8 +32,9 @@ As the UX/UI Designer for this project, my job was to turn the client's idea int
 <li> Iterating on designs based on feedback as well as time & budget constraints.</li>
 <li> Making sure the design could handle new features (ex. reviews) </li>
 
+
 ![An image of various design elements designed to use across the platform](/images/design_system_vacay_hooray.webp){: width="1200"}
 
-![An image of design styles intended to be used across the website design](/images/style_guide_vacay_hooray.png){: width="1200"}
+![An image of design styles intended to be used across the website design](/images/style_guide_vacay_hooray.webp){: width="1200"}
 
-![An image of mobile screens consisting of the website](/images/mobile_screens_vacay_hooray.webp){: width="1200"}
+![An image of mobile screens consisting of the website](/images/mobile_screens_vacay_hooray 2.webp){: width="1200"}
