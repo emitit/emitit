@@ -2,7 +2,7 @@
 date: 2021-01-11 05:20:35 +0300
 title: Podcaster App
 subtitle: UI/UX Design | Logo Design
-image: '/images/podcaster-mockup.webp'
+image: '/images/podcaster/podcaster-mockup.webp'
 ---
 
 For my __4-month UX Design Internship__ I was given the task to design the first podcast app that would collect all Macedonian podcasts in one place from multiple platforms. 
@@ -55,13 +55,13 @@ I interviewed 2 people from each group. In summary, here’s what I learned:
 
 Based on the conversations I had, I created a user persona for each group.
 
-![Two user personas](/images/user-personas.webp){: width="1200" height="900"}
+![Two user personas](/images/podcaster/user-personas.webp){: width="1200" height="900"}
 
 <strong>USER JOURNEY MAP</strong>
 
 Intending to make it as simple as possible, I mapped out the ideal journey a user would take to either find their favorite podcast, listen to it, save it or to discover new podcasts. 
 
-![User journey map of the app](/images/user-flow-podcaster.png){: width="1200" height="900"}
+![User journey map of the app](/images/podcaster/user-flow-podcaster.png){: width="1200" height="900"}
 
 <strong>DESIGNING THE APP</strong>
 
@@ -73,7 +73,7 @@ You can check out the clickable prototype <a href="https://www.figma.com/proto/k
 
 At this point, the only thing left was creating a style guide, designing the logo and the components. Once these three were done, I easily and efficiently put the entire design together.
 
-![A breakdown of the podcaster logo](/images/logo.webp){: width="1200" height="900"}
+![A breakdown of the podcaster logo](/images/podcaster/logo.webp){: width="1200" height="900"}
 
 
 <strong>RESULTS & LEARNINGS</strong>
